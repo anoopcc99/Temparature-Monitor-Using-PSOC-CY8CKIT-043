@@ -14,4 +14,6 @@ DataSheet:
 
 ### PSOC:
 
+![](https://github.com/anoopcc99/Temparature-Monitor-Using-PSOC-CY8CKIT-043/blob/main/images/ice_screenshot_20201104-111800.png)
+
 ![](https://github.com/anoopcc99/Temparature-Monitor-Using-PSOC-CY8CKIT-043/blob/main/images/ice_screenshot_20201104-111353.png)
