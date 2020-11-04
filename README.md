@@ -9,6 +9,9 @@ Using SAR ADC and WDT in PSOC 4200M series Prototyping kit monitoring of Tempera
 
 ### LM35:
 DataSheet:
+
 ![](https://github.com/anoopcc99/Temparature-Monitor-Using-PSOC-CY8CKIT-043/blob/main/images/ice_screenshot_20200928-165630.png)
 
 ### PSOC:
+
+![](https://github.com/anoopcc99/Temparature-Monitor-Using-PSOC-CY8CKIT-043/blob/main/images/ice_screenshot_20201104-111353.png)
