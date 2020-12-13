@@ -1,6 +1,8 @@
 # Temparature-Monitor-Using-PSOC-CY8CKIT-043
 Using SAR ADC in PSOC 4200M series Prototyping kit Monitoring of Temperature.
+
 PSOC CY8CKIT-043 : https://www.cypress.com/documentation/development-kitsboards/cy8ckit-043-psoc-4-m-series-prototyping-kit
+
 CY8C4247AZI-M485 : https://www.cypress.com/file/377971/download
 
 ![](https://github.com/anoopcc99/Temparature-Monitor-Using-PSOC-CY8CKIT-043/blob/main/images/1604468252809.jpg)
